@@ -1,0 +1,18 @@
+/* Add your CSS styles here */
+.cart {
+    margin-bottom: 20px;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+  
+  .like {
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+  }
+  
+  .like.active {
+    color: red;
+  }
